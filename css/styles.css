@@ -10966,8 +10966,8 @@ header.masthead h1, header.masthead .h1 {
   flex-wrap: wrap;
   padding: 0 4px;
 }
-.px-2 {
-  padding: 0 20px;
+.m {
+  margin-top: 10px;
 }
 /* Create two equal columns that sits next to each other */
 .column {
