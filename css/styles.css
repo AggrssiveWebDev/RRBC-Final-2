@@ -10959,6 +10959,7 @@ header.masthead h1, header.masthead .h1 {
 }
 .social-media-icons-white a {
     color: #10008C;
+    font-size: 2rem;
 }
 .row {
   display: flex;
