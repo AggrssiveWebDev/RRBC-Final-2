@@ -97,7 +97,7 @@ body {
   font-size: var(--bs-body-font-size);
   font-weight: var(--bs-body-font-weight);
   line-height: var(--bs-body-line-height);
-  color: var(--bs-body-color);
+  color: var(--bs-#10008C);
   text-align: var(--bs-body-text-align);
   background-color: var(--bs-body-bg);
   -webkit-text-size-adjust: 100%;
@@ -106,7 +106,7 @@ body {
 
 hr {
   margin: 1rem 0;
-  color: #ffd401;
+  color: #10008C;
   border: 0;
   border-top: 1px solid;
   
@@ -10929,7 +10929,7 @@ hr.divider-light {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
-  background: url("../assets/img/bg-mastheadfinabluel.png");
+  background: url("../assets/img/bg-mastheadfinalblue.png");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -10967,7 +10967,7 @@ header.masthead h1, header.masthead .h1 {
   padding: 0 4px;
 }
 .m {
-  margin-top: 40px;
+  margin-top: 60px;
 }
 /* Create two equal columns that sits next to each other */
 .column {
