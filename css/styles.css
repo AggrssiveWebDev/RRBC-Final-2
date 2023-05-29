@@ -10968,7 +10968,7 @@ header.masthead h1, header.masthead .h1 {
 }
 .px-2 {
   padding-top: ($spacer * .5);
-  
+}
 /* Create two equal columns that sits next to each other */
 .column {
   flex: 50%;
