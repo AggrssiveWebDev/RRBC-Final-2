@@ -106,10 +106,10 @@ body {
 
 hr {
   margin: 1rem 0;
-  padding: 25px;
   color: #ffd401;
- 
-
+  border: 0;
+  border-top: 1px solid;
+  
 }
 
 h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
